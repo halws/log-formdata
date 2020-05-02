@@ -1,0 +1,24 @@
+{
+  "name": "log-formdata",
+  "version": "1.0.0",
+  "description": "Simple snippet to console.log FormData values",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/halws/log-formdata.git"
+  },
+  "keywords": [
+    "console.log",
+    "FormData",
+    "log"
+  ],
+  "author": "halws",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/halws/log-formdata/issues"
+  },
+  "homepage": "https://github.com/halws/log-formdata#readme"
+}
